@@ -1,0 +1,21 @@
+.quadrado {
+  width: 200px;        
+  height: 200px;       
+  background-color: #1bd17f; 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#btn {
+  color: blue;
+  position: relative;
+  min-height: 100px;
+  max-height: 50px;
+  background-color: rgb(8, 2, 23);
+}
+
+.destaque {
+  color: red;
+}
+body 
+ 
