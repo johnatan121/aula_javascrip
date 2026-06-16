@@ -1,0 +1,16 @@
+body {
+
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    background-color: #4a4aae;
+    padding: 50px 20px;
+    }
+
+.item-tarefa{
+    padding: 10px;
+    border-bottom: 1px solid #1a0e0e;
+}
+.tarefa-cocluida{
+    text-decoration: line-through;
+    color: grey;
+}
